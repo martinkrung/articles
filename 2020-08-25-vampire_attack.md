@@ -36,4 +36,16 @@ A combination of migration mining, leverage shorting Project A's tokens ($a) and
 
 ## Executive Summary for non crypto people
 
-Imagine two traditional banks (A and B) which have similar services. B is very new and has no liquidity. So B decides to distribute shares and a reward for the liquidity you bring in. B knows that A is dependent on liquidity, as is every bank. So B takes out a loan somewhere, buys shares of A (with leverage) and sells these on the market. Then B tells every customer of A that it has a plan to suck out A's liquidity, distribute its own shares, and offer a reward as incentivization. If successful, people will start to migrate liquidity from A to B. (Incoming liquidity would have a lock-up period and you would receive more shares the longer you lock-up)  A cannot stop liquidity outflow because customers can do this electronically without permission. This results in A going bust and the value of A's shares drops to zero. To finalize the scheme, B pays back the now worthless shares from A and distributes the profits as rewards for its own shareholders.
+Imagine two traditional banks (A and B) which have similar services. 
+
+B is very new and has no liquidity. So B decides to distribute shares and a reward for the liquidity you bring in. B knows that A is dependent on liquidity, as is every bank. So B takes out a loan somewhere, buys shares of A (with leverage) and sells these on the market. 
+
+Then B tells every customer of A that it has a plan to suck out A's liquidity, distribute its own shares, and offer a reward as incentivization. If successful, people will start to migrate liquidity from A to B. (Incoming liquidity would have a lock-up period and you would receive more shares the longer you lock-up)  
+
+A cannot stop liquidity outflow because customers can do this electronically without permission. This results in A going bust and the value of A's shares drops to zero. To finalize the scheme, B pays back the now worthless shares from A and distributes the profits as rewards for its own shareholders.
+
+
+
+Tweet from 2020-08-25 about the vampire attack: https://twitter.com/martinkrung/status/1298363320270032897?s=20
+Many thanks to [Daniel Hwang](https://twitter.com/danhwang88 "Daniel Hwang") for corrections.
+
